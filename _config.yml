@@ -1,1 +1,9 @@
 theme: jekyll-theme-minimal
+sidebar:
+  - title: "Camp Jeevan"
+    image: "/assets/images/your-image.jpg"
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Purpose of Life"
+    text: "More text here."
+    nav: sidebar-sample
